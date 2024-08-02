@@ -19,9 +19,3 @@ This project involves solving partial differential equations using various itera
 ### 6. Dual Sweep Jacobi Iterative Method (θ-sweep then r-sweep)
 
 ### 7. Successive Over-Relaxation (SOR) for Gauss-Seidel
-
-## Discretization and Error Analysis
-
-- All methods use central space discretization.
-- Discretization error is of the order O(h²).
-- For steady-state, all methods show the same truncation error and consistency.
